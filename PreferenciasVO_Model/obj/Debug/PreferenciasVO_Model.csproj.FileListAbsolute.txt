@@ -1,0 +1,5 @@
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\PreferenciasVO_Model\bin\Debug\PreferenciasVO_Model.dll
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\PreferenciasVO_Model\bin\Debug\PreferenciasVO_Model.pdb
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\PreferenciasVO_Model\obj\Debug\PreferenciasVO_Model.dll
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\PreferenciasVO_Model\obj\Debug\PreferenciasVO_Model.pdb
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\PreferenciasVO_Model\obj\Debug\PreferenciasVO_Model.csprojResolveAssemblyReference.cache

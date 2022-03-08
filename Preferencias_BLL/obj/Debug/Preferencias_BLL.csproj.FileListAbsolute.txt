@@ -1,0 +1,11 @@
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\Preferencias_BLL\bin\Debug\Preferencias_BLL.dll
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\Preferencias_BLL\bin\Debug\Preferencias_BLL.pdb
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\Preferencias_BLL\bin\Debug\PreferenciasFachada_Facade.dll
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\Preferencias_BLL\bin\Debug\PreferenciasVO_Model.dll
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\Preferencias_BLL\bin\Debug\PreferenciasDAO_DAL.dll
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\Preferencias_BLL\bin\Debug\PreferenciasFachada_Facade.pdb
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\Preferencias_BLL\bin\Debug\PreferenciasVO_Model.pdb
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\Preferencias_BLL\bin\Debug\PreferenciasDAO_DAL.pdb
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\Preferencias_BLL\obj\Debug\Preferencias_BLL.csprojResolveAssemblyReference.cache
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\Preferencias_BLL\obj\Debug\Preferencias_BLL.dll
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\Preferencias_BLL\obj\Debug\Preferencias_BLL.pdb

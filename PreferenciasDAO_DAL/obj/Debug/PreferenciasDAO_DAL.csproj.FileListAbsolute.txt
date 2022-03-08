@@ -1,0 +1,7 @@
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\PreferenciasDAO_DAL\bin\Debug\PreferenciasDAO_DAL.dll
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\PreferenciasDAO_DAL\bin\Debug\PreferenciasDAO_DAL.pdb
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\PreferenciasDAO_DAL\bin\Debug\PreferenciasVO_Model.dll
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\PreferenciasDAO_DAL\bin\Debug\PreferenciasVO_Model.pdb
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\PreferenciasDAO_DAL\obj\Debug\PreferenciasDAO_DAL.csprojResolveAssemblyReference.cache
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\PreferenciasDAO_DAL\obj\Debug\PreferenciasDAO_DAL.dll
+D:\Curso Programa\exercicioFamiliaresCompleto_1_23112020\PreferenciasDAO_DAL\obj\Debug\PreferenciasDAO_DAL.pdb
